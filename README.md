@@ -1,6 +1,6 @@
 # Spam-Mail-Prediction
 
-his notebook appears to be a Machine Learning project aimed at building a spam detection system. Here's an overview:
+This notebook appears to be a Machine Learning project aimed at building a spam detection system. Here's an overview:
 
 Notebook Sections:
 Importing Dependencies:
